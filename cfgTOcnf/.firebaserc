@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "cfg-to-cnf-converter"
+  }
+}
